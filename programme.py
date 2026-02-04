@@ -3,3 +3,5 @@ age= input("Enter your age:")
 
 print("Hello,", name)
 print('you are',age,'years old')
+
+print("welcome too all friends")
